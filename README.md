@@ -1,4 +1,4 @@
-![images (1)](https://github.com/user-attachments/assets/e36ad574-8e63-417f-a320-57f43ed3342f)
+![téléchargement (7)](https://github.com/user-attachments/assets/7545443c-491d-4039-9f8a-44320498f8f9)
 
 
 # Nettoyage et Préparation des Données de l'Ensemble de Données NashvilleHousing
